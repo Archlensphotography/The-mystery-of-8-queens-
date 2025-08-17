@@ -44,3 +44,4 @@ board = [[0]*N for _ in range(N)]
 solve(board, 0)
 
 I'll attach an image to show what the solved puzzle is like.
+hope you enjoyed the think piece, see you next time.
